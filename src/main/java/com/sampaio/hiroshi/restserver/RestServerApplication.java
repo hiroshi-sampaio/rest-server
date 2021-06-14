@@ -9,7 +9,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 enum BananaVariety {
-    Red, LadyFinger, BlueJava, Manzano, Burro, Plantain;
+    Red, LadyFinger, BlueJava, Manzano, Burro, Plantain
 }
 
 @SpringBootApplication
